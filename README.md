@@ -8,7 +8,7 @@ My Movies é uma aplicação React criada para cadastrar, editar e avaliar seus 
 
 1. Essa aplicação foi criada usando react com vite: https://vitejs.dev/guide/
 
-2. A aplicação usa em modo de desenvolviment Json Server para simular o back-end: https://www.npmjs.com/package/json-server
+2. A aplicação utiliza Json Server para simular o back-end em modo de desenvolvimento: https://www.npmjs.com/package/json-server
 
 3. A aplicação utiliza Material UI como biblioteca de componentes: https://mui.com/
 
