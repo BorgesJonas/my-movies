@@ -14,7 +14,7 @@ My Movies é uma aplicação React criada para cadastrar, editar e avaliar seus 
 
 4. A aplicação utilizada React Hook Form como biblioteca de controle de formulários: https://react-hook-form.com/
 
-5. Para validação de formulários é usada a biblioteca: https://www.npmjs.com/package/yup
+5. Para validação de formulários é utilizada a biblioteca Yup: https://www.npmjs.com/package/yup
 
 ## Instalação
 
