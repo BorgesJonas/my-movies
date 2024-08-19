@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "title": "Senhor dos Anéis 2",
+      "director": "Peter Jackson",
+      "genre": "Action",
+      "releaseDate": "01/08/2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec ultrices sem, eget blandit elit. In efficitur aliquet luctus. Praesent dapibus eu leo ut faucibus. Cras mollis ante a rutrum lobortis. Pellentesque ut fermentum urna, at consectetur tellus. Morbi egestas, sem in sollicitudin luctus, est nulla facilisis nulla, pulvinar consequat augue turpis nec ex. Integer non interdum enim. Praesent imperdiet orci ac aliquet cursus. In sed urna eu nibh scelerisque aliquet at et orci. Cras tincidunt erat porttitor hendrerit euismod.",
+      "rating": 10,
+      "id": "b575"
+    },
+    {
+      "id": "f8b0",
+      "rating": 7,
+      "description": "Sed vel lobortis purus. Vivamus pretium sagittis urna, eget hendrerit erat efficitur nec. Integer pulvinar massa eu sagittis egestas. Integer facilisis lacinia urna non accumsan. Etiam nec egestas libero, ut consequat lorem. Ut laoreet fermentum augue, id vulputate orci lobortis et. Nullam blandit lobortis tempor. In vel nunc accumsan, gravida mi a, dictum eros. Maecenas fringilla mattis gravida. Curabitur dignissim, lectus vitae hendrerit suscipit, nisi leo gravida nulla, eu euismod lorem erat sit amet orci. Pellentesque ac bibendum odio. Cras vitae justo porttitor, vehicula ex vitae, pharetra ligula. Donec orci neque, fermentum nec luctus vel, posuere et urna. Nunc vehicula ipsum quis quam rutrum placerat. Pellentesque bibendum fermentum ultrices. In sit amet mi tortor.",
+      "releaseDate": "10/10/1994",
+      "genre": "Horror",
+      "director": "Wes Craven",
+      "title": "Pânico"
+    },
+    {
+      "id": "aa11",
+      "rating": 9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur efficitur commodo. Quisque feugiat molestie pellentesque. Sed scelerisque erat accumsan, porta felis et, feugiat est. Aenean faucibus felis eu efficitur tempor. Curabitur ut ultricies odio. Integer nisl ipsum, volutpat venenatis euismod id, euismod et nisi. Suspendisse ultrices ornare molestie. Phasellus blandit, elit sodales fringilla varius, magna mi elementum quam, mattis ornare sem lacus id quam. Nulla facilisi. Ut accumsan justo purus, ut ultricies lorem posuere id.",
+      "releaseDate": "10/10/1979",
+      "genre": "Sci-Fi",
+      "director": "George Lucas",
+      "title": "Star Wars"
+    }
+  ]
+}
